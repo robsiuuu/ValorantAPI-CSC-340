@@ -4,5 +4,5 @@
 - Make sure jdk versions match.
 - Run the main method.
 - On POSTMAN:
-- http://localhost:8080/api/agents (for all agents infos)
-- http://localhost:8080/api/agent?name={agent name} (for a specific agent info)
+  - http://localhost:8080/api/agents (for all agents infos)
+  - http://localhost:8080/api/agent?name={agent-name} (for a specific agent info)
